@@ -1,0 +1,12 @@
+body {
+    font-size: 120%;
+}
+.primera-parte {
+    background: blanchedalmond;
+}
+span {
+    font-weight: bold;
+}
+.primer-texto, .segundo-texto {
+    background-color: rgb(255, 221, 227);
+}
